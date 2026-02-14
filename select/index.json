@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "名前を呼ぶよ",
+  "base_artist": "ラックライフ",
+  "createdAt": "2026-02-14T09:58:13.745836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/01_名前を呼ぶよ_ラックライフ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ - 中島 敦ver.",
+      "artist": "中島 敦 (CV.上村祐翔)",
+      "has_synced": true,
+      "path": "select/02_名前を呼ぶよ_-_中島_敦ver._中島_敦_(CV.上村祐翔).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/03_名前を呼ぶよ_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/04_名前を呼ぶよ_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "LUCKLIFE",
+      "has_synced": true,
+      "path": "select/05_名前を呼ぶよ_LUCKLIFE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/06_名前を呼ぶよ_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "LUCKLIFE",
+      "has_synced": true,
+      "path": "select/07_名前を呼ぶよ_LUCKLIFE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ～中島 敦ver.～",
+      "artist": "中島 敦 (CV.上村祐翔)",
+      "has_synced": true,
+      "path": "select/08_名前を呼ぶよ~中島_敦ver.~_中島_敦_(CV.上村祐翔).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SUPER BEAVER 「名前を呼ぶよ」MV",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/09_SUPER_BEAVER_「名前を呼ぶよ」MV_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ - Namae o Yobu yo",
+      "artist": "LUCK LIFE",
+      "has_synced": true,
+      "path": "select/10_名前を呼ぶよ_-_Namae_o_Yobu_yo_LUCK_LIFE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ - TV Size",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/11_名前を呼ぶよ_-_TV_Size_ラックライフ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "Luck Life",
+      "has_synced": true,
+      "path": "select/12_名前を呼ぶよ_Luck_Life.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ (Bungou Stray Dogs)",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/13_名前を呼ぶよ_(Bungou_Stray_Dogs)_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "Luck Life",
+      "has_synced": true,
+      "path": "select/14_名前を呼ぶよ_Luck_Life.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/15_名前を呼ぶよ_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "名前を呼ぶよ (TV Size)",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/16_名前を呼ぶよ_(TV_Size)_ラックライフ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "名前を呼ぶよ",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_01_名前を呼ぶよ_ラックライフ.txt"
+    }
+  ]
+}
